@@ -1,3 +1,15 @@
+# NETFLIX ou melhor MIGUELFLIX.
+## ReactJs, Hooks, component Carrossel, Banco de Dados direto no Front-end com db.json.
+
+Acesse o site pelo link: [https://reactflix-one.vercel.app/](https://reactflix-one.vercel.app/)😉
+
+Projeto de clone da Netflix, podendo cadastrar e acessar vídeos, utilizando o ReactJs.
+
+![enter image description here](https://github.com/MiguelS007/reactflix/blob/master/src/assets/logoflix.png?raw=true)
+
+
+########################################################################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
