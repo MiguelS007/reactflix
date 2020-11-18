@@ -7,6 +7,10 @@ Projeto de clone da Netflix, podendo cadastrar e acessar vídeos, utilizando o R
 
 ![enter image description here](https://github.com/MiguelS007/reactflix/blob/master/src/assets/logoflix.png?raw=true)
 
+![enter image description here](https://github.com/MiguelS007/reactflix/blob/master/src/assets/WhatsApp%20Image%202020-11-18%20at%2011.59.01.jpeg?raw=true)
+![enter image description here](https://github.com/MiguelS007/reactflix/blob/master/src/assets/WhatsApp%20Image%202020-11-18%20at%2011.59.21.jpeg?raw=true)
+![enter image description here](https://github.com/MiguelS007/reactflix/blob/master/src/assets/WhatsApp%20Image%202020-11-18%20at%2011.59.33.jpeg?raw=true)
+
 
 ########################################################################################
 
